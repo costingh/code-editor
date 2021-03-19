@@ -15,7 +15,7 @@ This app is a live code editor in browser, that allows a user to write HTML, CSS
 
 ## Installing
 * Run this commang: git clone https://github.com/costingh/code-editor.git
-* After the operation is finished, navigate inside the code-editor file, and open up index.html file in a browser.
+* After the operation is finished, navigate inside the code-editor folder, and open the index.html file in a browser.
 
 ## Tech stack
 
